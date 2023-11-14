@@ -1,4 +1,4 @@
-/// <reference types='cypress' />
+
 
 import LoginPage from "../../Pages/LoginPage"
 const login = new LoginPage()
